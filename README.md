@@ -58,4 +58,12 @@
 <img width="1903" height="615" alt="Screenshot 2026-03-10 155408" src="https://github.com/user-attachments/assets/2d35a20c-124e-4335-9f3a-51a196a9abc3" />
 
 
+<br>
 
+## Theoretical Knowledge & Scenario-based Practice
+
+To complement the practical exercises above, I have also documented scenario-based practice questions and solutions covering core concepts:
+
+*   [Cloud Computing Practice Questions & Solutions](cloud_computing_practice.md)
+*   [DevOps Practice Questions & Solutions](devops_practice.md)
+*   [Docker & Kubernetes Practice Questions & Solutions](docker_kubernetes_practice.md)
